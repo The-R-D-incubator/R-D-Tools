@@ -1,7 +1,7 @@
 {
-  "active_holiday": "National Day",
-  "reason": "Global Celebration in CN",
-  "multiplier": 2,
-  "confetti": true,
-  "last_update": "2026-10-01"
+  "active_holiday": "None",
+  "reason": "Standard Operations",
+  "multiplier": 1,
+  "confetti": false,
+  "last_update": "2026-10-02"
 }
